@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=padrie&label=Profile%20views&color=0e75b6&style=flat" alt="padrie" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My Socials:</h3>
 <p align="left">
-<a href="https://twitter.com/padriestr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="padriestr" height="30" width="40" /></a>
+<a href="https://linktr.ee/padrie" target="blank"><img align="center" src="https://cdn.simpleicons.org/linktree/43E55E" alt="linktree" width="40" height="40"/></a>
 </p>
 
 <h3 align="left">Languages:</h3>
