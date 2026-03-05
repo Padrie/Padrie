@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Padrie</h1>
-<h3 align="center">An aspiring C# programmer and 3D Artist</h3>
+<h1 align="center">Hi 👋, I'm Patric</h1>
+<h3 align="center">Currently a Game Engineering student at School for Games Berlin</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=padrie&label=Profile%20views&color=0e75b6&style=flat" alt="padrie" /> </p>
 
