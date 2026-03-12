@@ -14,7 +14,7 @@
 <a href="https://linktr.ee/padrie" target="blank"><img align="center" src="https://cdn.simpleicons.org/linktree/43E55E" alt="linktree" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">Languages:</h3>
+<h2 align="left">Languages:</h2>
 <h3 align="left">C#:</h3>
 <h3 align="left">C++:</h3>
 <h3 align="left">GDScript:</h3>
