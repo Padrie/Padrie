@@ -5,12 +5,12 @@
 
 | Project | Engine/Language | Time | Release | Link |
 |---------|-----------------|------|---------|------|
-|Office Rush'95 - Future Edition|Unreal (Blueprints)|10 Weeks|2026|Play Here|
-|Fleshripper|Unity (C#)|10 Weeks|2025|Play Here|
-|Polarity|Godot (GDScript)|10 Weeks|2025|Play Here|
+|Office Rush'95 - Future Edition|Unreal (Blueprints)|10 Weeks|2026|<a href="https://s4g.itch.io/office-rush-95" target="blank">Play Here|
+|Fleshripper|Unity (C#)|10 Weeks|2025|<a href="https://s4g.itch.io/fleshripper" target="blank">Play Here|
+|Polarity|Godot (GDScript)|10 Weeks|2025|<a href="https://s4g.itch.io/polarity" target="blank">Play Here|
 |Navmesh A* Addon|Unity (C#)|1 Month|2025|Play Here|
 |Procedural Terrain Generator|Unity (C#)|4 Months|2024|Play Here|
-|DystOcean|Unity (C#)|4 Weeks|2023|Play Here|
+|DystOcean|Unity (C#)|4 Weeks|2023|<a href="https://tom-grzembke.itch.io/dystocean" target="blank">Play Here|
 
 <h3 align="left">Languages:</h3>
 <h4 align="left">C#, C++, GDScript</h4>
