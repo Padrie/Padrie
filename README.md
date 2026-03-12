@@ -7,13 +7,6 @@
 |--------|-------|------|-------------|
 |--------|-------|------|-------------|
 
-
-
-<h2 align="left">My Socials:</h2>
-<p align="left">
-<a href="https://linktr.ee/padrie" target="blank"><img align="center" src="https://cdn.simpleicons.org/linktree/43E55E" alt="linktree" width="40" height="40"/></a>
-</p>
-
 <h3 align="left">Languages:</h3>
 <h4 align="left">C#, C++, GDScript</h4>
 
