@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=padrie&label=Profile%20views&color=0e75b6&style=flat" alt="padrie" /> </p>
 
-| Project | Engine/Language | Time | Link |
-|--------|-------|------|-------------|
-|--------|-------|------|-------------|
+| Project | Engine/Language | Time | Release | Link |
+|---------|-----------------|------|---------|------|
+|---------|-----------------|------|---------|------|
 
 <h3 align="left">Languages:</h3>
 <h4 align="left">C#, C++, GDScript</h4>
