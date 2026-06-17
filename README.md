@@ -8,7 +8,7 @@
 |<a href="https://github.com/Padrie/Office-Rush-95" target="blank">Office Rush'95 - Future Edition|Unreal (Blueprints)|10 Weeks|2026|<a href="https://s4g.itch.io/office-rush-95" target="blank">Play Here|
 |<a href="https://github.com/Padrie/Fleshripper" target="blank">Fleshripper|Unity (C#)|10 Weeks|2025|<a href="https://s4g.itch.io/fleshripper" target="blank">Play Here|
 |<a href="https://github.com/Padrie/Polarity" target="blank">Polarity|Godot (GDScript)|10 Weeks|2025|<a href="https://s4g.itch.io/polarity" target="blank">Play Here|
-|Navmesh A* Addon|Unity (C#)|1 Month|2025|Play Here|
+|A* Pathfinding Addon|Unity (C#)|1 Month|2026|<a href="https://github.com/Padrie/Simple_AStar_Pathfinding" target="blank">Play Here|
 |<a href="https://github.com/Padrie/ProceduralGeneration" target="blank">Procedural Terrain Generator|Unity (C#)|4 Months|2024|Play Here|
 |DystOcean|Unity (C#)|4 Weeks|2023|<a href="https://tom-grzembke.itch.io/dystocean" target="blank">Play Here|
 |Project Cistron|Unity (C#)|4 Weeks|2023|<a href="https://blue-grapes-studios.itch.io/project-cistron" target="blank">Play Here|
